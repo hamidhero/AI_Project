@@ -1,0 +1,313 @@
+1. The Lego Movie
+Predicted Raring = 6.4			IMDB Rating = 7.8
+
+2. Bang Bang
+Predicted Raring = 5.6			IMDB Rating = 5.5
+
+3. The Equalizer
+Predicted Raring = 6.5			IMDB Rating = 7.2
+
+4. Think Like a Man Too
+Predicted Raring = 6.6			IMDB Rating = 5.7
+
+5. Kill the Messenger
+Predicted Raring = 5.9			IMDB Rating = 7.0
+
+6. That Demon Within
+Predicted Raring = 7.1			IMDB Rating = 6.0
+
+7. Noah
+Predicted Raring = 7.2			IMDB Rating = 5.9
+
+8. Exodus: Gods and Kings
+Predicted Raring = 6.7			IMDB Rating = 6.1
+
+9. RoboCop
+Predicted Raring = 6.3			IMDB Rating = 6.3
+
+10. Action Jackson
+Predicted Raring = 4.3			IMDB Rating = 3.3
+
+11. The Monuments Men
+Predicted Raring = 7.2			IMDB Rating = 6.1
+
+12. Bigfoot Wars
+Predicted Raring = 5.2			IMDB Rating = 3.2
+
+13. The Best of Me
+Predicted Raring = 7.0			IMDB Rating = 6.6
+
+14. Six Dance Lessons in Six Weeks
+Predicted Raring = 6.5			IMDB Rating = 5.5
+
+15. Pompeii
+Predicted Raring = 5.5			IMDB Rating = 5.6
+
+16. Transformers: Age of Extinction
+Predicted Raring = 6.7			IMDB Rating = 5.8
+
+17. 13 Sins
+Predicted Raring = 6.0			IMDB Rating = 6.2
+
+18. The Hundred-Foot Journey
+Predicted Raring = 6.7			IMDB Rating = 7.3
+
+19. The Drop
+Predicted Raring = 7.1			IMDB Rating = 7.1
+
+20. Dawn of the Planet of the Apes
+Predicted Raring = 7.4			IMDB Rating = 7.7
+
+21. Men, Women & Children
+Predicted Raring = 6.5			IMDB Rating = 6.7
+
+22. Wild
+Predicted Raring = 7.3			IMDB Rating = 7.2
+
+23. Maps to the Stars
+Predicted Raring = 6.0			IMDB Rating = 6.4
+
+24. Blended
+Predicted Raring = 6.0			IMDB Rating = 6.5
+
+25. Ride Along
+Predicted Raring = 5.1			IMDB Rating = 6.1
+
+26. Taken 3
+Predicted Raring = 5.8			IMDB Rating = 6.1
+
+27. Dolphin Tale 2
+Predicted Raring = 7.0			IMDB Rating = 6.4
+
+28. Serena
+Predicted Raring = 6.7			IMDB Rating = 5.4
+
+29. And So It Goes
+Predicted Raring = 6.6			IMDB Rating = 5.7
+
+30. Main Tera Hero
+Predicted Raring = 4.9			IMDB Rating = 5.4
+
+31. The Homesman
+Predicted Raring = 7.0			IMDB Rating = 6.6
+
+32. Sex Tape
+Predicted Raring = 5.9			IMDB Rating = 5.1
+
+33. The Expendables 3
+Predicted Raring = 6.6			IMDB Rating = 6.2
+
+34. Top Five
+Predicted Raring = 6.1			IMDB Rating = 6.6
+
+35. Teenage Mutant Ninja Turtles
+Predicted Raring = 5.7			IMDB Rating = 6.0
+
+36. Jersey Boys
+Predicted Raring = 6.0			IMDB Rating = 6.9
+
+37. Let's Be Cops
+Predicted Raring = 5.4			IMDB Rating = 6.5
+
+38. The Judge
+Predicted Raring = 6.6			IMDB Rating = 7.5
+
+39. Skin Trade
+Predicted Raring = 4.9			IMDB Rating = 8.0
+
+40. Muppets Most Wanted
+Predicted Raring = 6.7			IMDB Rating = 6.5
+
+41. Whiplash
+Predicted Raring = 7.0			IMDB Rating = 8.6
+
+42. A Most Wanted Man
+Predicted Raring = 6.6			IMDB Rating = 6.9
+
+43. Horrible Bosses 2
+Predicted Raring = 6.2			IMDB Rating = 6.4
+
+44. Jack Ryan: Shadow Recruit
+Predicted Raring = 7.5			IMDB Rating = 6.2
+
+45. Captain America: The Winter Soldier
+Predicted Raring = 6.2			IMDB Rating = 7.8
+
+46. Fury
+Predicted Raring = 7.1			IMDB Rating = 7.7
+
+47. The Amazing Spider-Man 2
+Predicted Raring = 7.2			IMDB Rating = 6.9
+
+48. Happy Ending
+Predicted Raring = 6.0			IMDB Rating = 5.4
+
+49. Clouds of Sils Maria
+Predicted Raring = 6.7			IMDB Rating = 6.8
+
+50. Unbroken
+Predicted Raring = 6.6			IMDB Rating = 7.2
+
+51. X-Men: Days of Future Past
+Predicted Raring = 7.4			IMDB Rating = 8.1
+
+52. Lucy
+Predicted Raring = 6.4			IMDB Rating = 6.4
+
+53. Deliver Us from Evil
+Predicted Raring = 6.7			IMDB Rating = 6.2
+
+54. Seventh Son
+Predicted Raring = 6.5			IMDB Rating = 5.5
+
+55. 3 Hearts
+Predicted Raring = 6.4			IMDB Rating = 5.9
+
+56. A Most Violent Year
+Predicted Raring = 7.0			IMDB Rating = 7.1
+
+57. Heaven Is for Real
+Predicted Raring = 5.8			IMDB Rating = 5.8
+
+58. Barefoot
+Predicted Raring = 6.4			IMDB Rating = 6.6
+
+59. The Giver
+Predicted Raring = 6.4			IMDB Rating = 6.5
+
+60. Walk of Shame
+Predicted Raring = 6.7			IMDB Rating = 6.0
+
+61. American Sniper
+Predicted Raring = 6.0			IMDB Rating = 7.4
+
+62. The One I Wrote for You
+Predicted Raring = 5.5			IMDB Rating = 7.7
+
+63. This Is Where I Leave You
+Predicted Raring = 6.1			IMDB Rating = 6.6
+
+64. Guardians of the Galaxy
+Predicted Raring = 6.6			IMDB Rating = 8.1
+
+65. A Haunted House 2
+Predicted Raring = 5.7			IMDB Rating = 4.7
+
+66. PK
+Predicted Raring = 6.9			IMDB Rating = 8.4
+
+67. Annie
+Predicted Raring = 6.9			IMDB Rating = 5.1
+
+68. 22 Jump Street
+Predicted Raring = 7.4			IMDB Rating = 7.1
+
+69. Haider
+Predicted Raring = 6.0			IMDB Rating = 8.5
+
+70. Foxcatcher
+Predicted Raring = 7.2			IMDB Rating = 7.1
+
+71. Night at the Museum: Secret of the Tomb
+Predicted Raring = 7.2			IMDB Rating = 6.3
+
+72. Holiday
+Predicted Raring = 6.1			IMDB Rating = 7.3
+
+73. Cold in July
+Predicted Raring = 5.8			IMDB Rating = 6.8
+
+74. 3 Days to Kill
+Predicted Raring = 6.0			IMDB Rating = 6.2
+
+75. Interstellar
+Predicted Raring = 7.0			IMDB Rating = 8.7
+
+76. Saint Laurent
+Predicted Raring = 6.2			IMDB Rating = 6.4
+
+77. Hector and the Search for Happiness
+Predicted Raring = 6.1			IMDB Rating = 6.9
+
+78. The Grand Budapest Hotel
+Predicted Raring = 6.1			IMDB Rating = 8.1
+
+79. The Hunger Games: Mockingjay - Part 1
+Predicted Raring = 7.2			IMDB Rating = 6.8
+
+80. Diplomatie
+Predicted Raring = 6.5			IMDB Rating = 7.0
+
+81. The Skeleton Twins
+Predicted Raring = 6.3			IMDB Rating = 6.9
+
+82. Neighbors
+Predicted Raring = 5.8			IMDB Rating = 6.4
+
+83. The Trip to Italy
+Predicted Raring = 5.9			IMDB Rating = 6.7
+
+84. Alexander and the Terrible, Horrible, No Good, Very Bad Day
+Predicted Raring = 7.3			IMDB Rating = 6.2
+
+85. Sabotage
+Predicted Raring = 6.9			IMDB Rating = 5.7
+
+86. The Theory of Everything
+Predicted Raring = 6.6			IMDB Rating = 7.8
+
+87. Gone Girl
+Predicted Raring = 6.8			IMDB Rating = 8.2
+
+88. Happy Christmas
+Predicted Raring = 6.7			IMDB Rating = 5.6
+
+89. The Hobbit: The Battle of the Five Armies
+Predicted Raring = 8.1			IMDB Rating = 7.6
+
+90. Still Alice
+Predicted Raring = 5.8			IMDB Rating = 7.5
+
+91. The Other Woman
+Predicted Raring = 6.4			IMDB Rating = 6.0
+
+92. Birdman: Or (The Unexpected Virtue of Ignorance)
+Predicted Raring = 7.1			IMDB Rating = 7.9
+
+93. While We're Young
+Predicted Raring = 6.5			IMDB Rating = 7.1
+
+94. The Imitation Game
+Predicted Raring = 8.3			IMDB Rating = 8.1
+
+95. Singham Returns
+Predicted Raring = 4.8			IMDB Rating = 5.8
+
+96. Big Eyes
+Predicted Raring = 6.7			IMDB Rating = 7.0
+
+97. Non-Stop
+Predicted Raring = 6.7			IMDB Rating = 7.0
+
+98. A Long Way Down
+Predicted Raring = 6.6			IMDB Rating = 6.4
+
+99. Edge of Tomorrow
+Predicted Raring = 6.7			IMDB Rating = 8.0
+
+100. The Best of Me
+Predicted Raring = 7.0			IMDB Rating = 6.6
+
+101. The Interview
+Predicted Raring = 6.4			IMDB Rating = 6.8
+
+102. Dumb and Dumber To
+Predicted Raring = 5.9			IMDB Rating = 5.9
+
+103. White Bird in a Blizzard
+Predicted Raring = 6.6			IMDB Rating = 6.4
+
+104. About Last Night
+Predicted Raring = 6.1			IMDB Rating = 6.1
+
+The Mean Relative Error = 11.5869428804 %
